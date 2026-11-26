@@ -18,3 +18,24 @@
 18. Create a java program to print the perimeter of the triangle
 19. Create a java program to convert the Fahrenheit to Celsius 
 20. Create a java program to convert the Celsius to Fahrenheit
+21. Create a Java program to swap two numbers using a third variable.
+22. Create a Java program to swap two numbers without using a third variable.
+23. Create a Java program to find the largest and smallest of two numbers.
+24. Create a Java program to find the largest and smallest of three numbers.
+25. Create a Java program to calculate simple interest.
+26. Create a Java program to calculate compound interest.
+27. Create a Java program to calculate the total bill after applying a discount.
+28. Create a Java program to calculate the final salary after adding allowances.
+29. Create a Java program to convert days into years, weeks and days.
+30. Create a Java program to convert seconds into hours, minutes and seconds.
+31. Create a Java program to convert kilometers into meters.
+32. Create a Java program to convert meters into centimeters and millimeters.
+33. Create a Java program to calculate the power of a number without using Math.pow().
+34. Create a Java program to calculate the power of a number using Math.pow().
+35. Create a Java program to find the quotient and remainder of two numbers. 
+36. Create a Java program to calculate the total marks and percentage of five subjects.
+37. Create a Java program to calculate the final price after applying GST.
+38. Create a Java program to calculate the volume of a cube, cylinder ,cone.
+39. Create a Java program to calculate the area of cube, cuboid ,cone.
+40. Create a Java program to calculate the total cost of purchasing multiple products.
+
