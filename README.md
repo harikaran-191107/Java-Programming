@@ -38,4 +38,24 @@
 38. Create a Java program to calculate the volume of a cube, cylinder ,cone.
 39. Create a Java program to calculate the area of cube, cuboid ,cone.
 40. Create a Java program to calculate the total cost of purchasing multiple products.
+41. Create a Java program to check whether a number is positive, negative or zero.
+42. Create a Java program to check whether a number is even or odd.
+43. Create a Java program to find the largest of two numbers.
+44. Create a Java program to find the largest of three numbers.
+45. Create a Java program to find the smallest of three numbers.
+46. Create a Java program to check whether a number is divisible by 5.
+47. Create a Java program to check whether a number is divisible by both 5 and 11.
+48. Create a Java program to check whether a given year is a leap year.
+49. Create a Java program to check whether a person is eligible to vote.
+50. Create a Java program to check whether a person is eligible for a driving license.
+51. Create a Java program to check whether a character is an alphabet or not.
+52. Create a Java program to check whether a character is a vowel or consonant.
+53. Create a Java program to check whether a character is uppercase or lowercase.
+54. Create a Java program to find the grade of a student based on percentage.
+55. Create a Java program to check whether a triangle is valid based on its three sides.
+56. Create a Java program to identify whether a triangle is equilateral, isosceles or scalene.
+57. Create a Java program to calculate an electricity bill based on units consumed.
+58. Create a Java program to check whether a number is a two-digit, three-digit or four-digit number.
+59. Create a Java program to check whether three numbers are equal.
+60. Create a Java program to create a simple calculator using switch statements.
 
