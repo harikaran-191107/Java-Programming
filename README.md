@@ -42,7 +42,7 @@
 42. Create a Java program to check whether a number is even or odd.
 43. Create a Java program to find the largest of two numbers.
 44. Create a Java program to find the largest of three numbers.
-45. Create a Java program to find the smallest of three numbers.
+45. Create a Java program to find the whether the password is valid or not.
 46. Create a Java program to check whether a number is divisible by 5.
 47. Create a Java program to check whether a number is divisible by both 5 and 11.
 48. Create a Java program to check whether a given year is a leap year.
@@ -58,4 +58,5 @@
 58. Create a Java program to check whether a number is a two-digit, three-digit or four-digit number.
 59. Create a Java program to check whether three numbers are equal.
 60. Create a Java program to create a simple calculator using switch statements.
+
 
